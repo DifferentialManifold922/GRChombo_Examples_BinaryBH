@@ -8,7 +8,7 @@ This repository contains my submission for the ICTP-AP 2025 selection task: "Bin
 - 'visual.py': This program uses yt to draw slice images ("chi") and save them as frames.
  
 ### fig_frames_video/:
- - Figure, frames and evolution videos
+Figure, frames and evolution videos
  
 ### run.log
  -Logs when running BinaryBH
