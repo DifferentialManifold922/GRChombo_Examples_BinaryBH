@@ -9,6 +9,9 @@ This repository contains my submission for the ICTP-AP 2025 selection task: "Bin
  
 ### fig_frames_video/:
 Figure, frames and evolution videos
+
+### data/:
+Examples/BinaryBH/data
  
 ### run.log
  -Logs when running BinaryBH
